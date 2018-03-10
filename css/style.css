@@ -1,0 +1,26 @@
+.body {
+    background: url("../rain.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 15px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: white;
+  background-color: darkblue;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: lightblue}
+
+.button:active {
+  box-shadow: 0 5px gray;
+  transform: translateY(4px);
+}
