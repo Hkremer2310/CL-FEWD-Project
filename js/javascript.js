@@ -1,4 +1,5 @@
 var quotes = [
+
   "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to build bigger and better idiots. So far, the universe is winning.  - Rick Cook",
 
   "Lisp isn't a language, it's a building material. - Alan Kay",
@@ -27,7 +28,7 @@ var quotes = [
 
 "In the one and only true way. The object-oriented version of 'Spaghetti code' is, of course, 'Lasagna code'. (Too many layers). - Roberto Waltman",
 
-"FORTRAN is not a flower but a weed — it is hardy, occasionally blooms, and grows in every computer. - Alan J. Perlis",
+"FORTRAN is not a flower but a weed; it is hardy, occasionally blooms, and grows in every computer. - Alan J. Perlis",
 
 "For a long time it puzzled me how something so expensive, so leading edge, could be so useless. And then it occurred to me that a computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match. - Bill Bryson",
 
@@ -55,7 +56,7 @@ var quotes = [
 
 "Programming is like kicking yourself in the face, sooner or later your nose will bleed. - Kyle Woodbury",
 
-"Perl – The only language that looks the same before and after RSA encryption. - Keith Bostic",
+"Perl:  The only language that looks the same before and after RSA encryption. - Keith Bostic",
 
 "It is easier to port a shell than a shell script. - Larry Wall",
 
@@ -65,7 +66,7 @@ var quotes = [
 
 "The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability. - Randall E. Stross",
 
-"If McDonalds were run like a software company, one out of every hundred Big Macs would give you food poisoning, and the response would be, ‘We're sorry, here's a coupon for two more.’ - Mark Minasi",
+"If McDonalds were run like a software company, one out of every hundred Big Macs would give you food poisoning, and the response would be, \'We're sorry, here's a coupon for two more.\' - Mark Minasi",
 
 "Beware of bugs in the above code; I have only proved it correct, not tried it. - Donald E. Knuth",
 
@@ -97,7 +98,107 @@ var quotes = [
 
 "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. - Martin Golding",
 
-"There are two ways of constructing a software design. One way is to make it so simple that there are obviously no deficiencies. And the other way is to make it so complicated that there are no obvious deficiencies. - C.A.R. Hoare"
+"There are two ways of constructing a software design. One way is to make it so simple that there are obviously no deficiencies. And the other way is to make it so complicated that there are no obvious deficiencies. - C.A.R. Hoare",
+
+"Some things Man was never meant to know. For everything else, there's Google.",
+
+"Failure is not an option -- it comes bundled with Windows.",
+
+"Computer games don't affect kids; I mean if Pac-Man affected us as kids, we'd all be running around in darkened rooms, munching magic pills and listening to repetitive electronic music.",
+
+"COBOL programmers understand why women hate periods.",
+
+"Artificial Intelligence usually beats natural stupidity.",
+
+"To err is human... to really foul up requires the root password.",
+
+"Like car accidents, most hardware problems are due to driver error.",
+
+"If at first you don't succeed; call it version 1.0",
+
+"If Python is executable pseudocode, then perl is executable line noise.",
+
+"Programmers are tools for converting caffeine into code.",
+
+"Why do we want intelligent terminals when there are so many stupid users?",
+
+"I can't uninstall it, there seems to be some kind of 'Uninstall Shield'.",
+
+"See daddy ? All the keys are in alphabetical order now.",
+
+"Hey! It compiles! Ship it!",
+
+"SUPERCOMPUTER: what it sounded like before you bought it.",
+
+"Yo moma is like HTML: Tiny head, huge body.",
+
+"Windows Vista: It's like upgrading from Bill Clinton to George W. Bush.",
+
+"The more I C, the less I see.",
+
+"Life would be so much easier if we only had the source code.",
+
+"My software never has bugs. It just develops random features.",
+
+"The only problem with troubleshooting is that sometimes trouble shoots back.",
+
+"Crap... Someone knocked over my recycle bin... There's icons all over my desktop...",
+
+"Relax, its only ONES and ZEROS !",
+
+"rm -rf /bin/laden",
+
+"I don't care if you ARE getting a PhD in it ! Get away from that damn computer and go find a woman !",
+
+"The great thing about Object Oriented code is that it can make small, simple problems look like large, complex ones.",
+
+"If brute force doesn't solve your problems, then you aren't using enough.".
+
+"Programming is like sex, one mistake and you have to support it for the rest of your life.",
+
+"Unix is user-friendly. It's just very selective about who its friends are.",
+
+"Microsoft: 'You\'ve got questions. We\'ve got dancing paperclips.",
+
+"I'm not anti-social; I'm just not user friendly",
+
+"The world is coming to an end... SAVE YOUR BUFFERS !",
+
+"If you don't want to be replaced by a computer, don't act like one.",
+
+"Better to be a geek than an idiot.",
+
+"I went to a gentleman's cybercafe — and they offered me a 'laptop dance'.",
+
+"After Perl everything else is just assembly language.",
+
+"The Internet: where men are men, women are men, and children are FBI agents.",
+
+"There are 10 types of people in the world: those who understand binary, and those who don't.",
+
+"Difference between a virus and windows ? Viruses rarely fail.",
+
+"Hacking is like sex. You get in, you get out, and hope that you didn't leave something that can be traced back to you.",
+
+"1f u c4n r34d th1s u r34lly n33d t0 g37 l41d",
+
+"Helpdesk:  There is an icon on your computer labeled 'My Computer'. Double click on it. User: What's your computer doing on mine?",
+
+"I think Microsoft named .Net so it wouldn’t show up in a Unix directory listing.",
+
+"If debugging is the process of removing bugs, then programming must be the process of putting them in.",
+
+"Computer dating is fine, if you're a computer.",
+
+"Any fool can use a computer. Many do.",
+
+"Hardware: The parts of a computer system that can be kicked.",
+
+"Those who can't write programs, write help files.",
+
+"You know you're a geek when... You try to shoo a fly away from the monitor with your cursor. That just happened to me. It was scary.",
+
+"Computer language design is just like a stroll in the park. Jurassic Park, that is."
 ]
 
 function newQuote() {
