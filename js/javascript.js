@@ -152,7 +152,7 @@ var quotes = [
 
 "The great thing about Object Oriented code is that it can make small, simple problems look like large, complex ones.",
 
-"If brute force doesn't solve your problems, then you aren't using enough.".
+"If brute force doesn't solve your problems, then you aren't using enough.",
 
 "Programming is like sex, one mistake and you have to support it for the rest of your life.",
 
@@ -168,7 +168,7 @@ var quotes = [
 
 "Better to be a geek than an idiot.",
 
-"I went to a gentleman's cybercafe — and they offered me a 'laptop dance'.",
+"I went to a gentleman's cybercafe, and they offered me a 'laptop dance'.",
 
 "After Perl everything else is just assembly language.",
 
